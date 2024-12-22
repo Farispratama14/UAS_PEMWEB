@@ -128,7 +128,7 @@ Selamat datang di repository resmi **Dreamy Plushie Co**, sebuah website modern 
 
 ---
 
-## Bagian 5: Inventory Management (Tambahan Gambar 1, 2, dan 3)
+## Bagian 5: Inventory Management
 
 ### 5.1 Validasi Data Inventory
 - **Kriteria:**
@@ -157,7 +157,7 @@ Selamat datang di repository resmi **Dreamy Plushie Co**, sebuah website modern 
 
 ---
 
-## Bagian 6: Sistem Login (Tambahan Kode Baru)
+## Bagian 6: Sistem Login
 
 ### 6.1 Validasi Login
 - **Kriteria:**
@@ -191,7 +191,7 @@ Selamat datang di repository resmi **Dreamy Plushie Co**, sebuah website modern 
 
 ---
 
-## Bagian 7: Sistem Registrasi (Kode Baru Ditambahkan)
+## Bagian 7: Sistem Registrasi
 
 ### 7.1 Validasi Data Registrasi
 - **Kriteria:**
