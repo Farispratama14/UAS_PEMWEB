@@ -223,7 +223,36 @@ Selamat datang di repository resmi **Dreamy Plushie Co**, sebuah website modern 
 
   **Kesimpulan:** Kriteria telah terpenuhi.
 
----
+### Bagian Bonus: Hosting Aplikasi Web (Bobot: 20%)
+1. Langkah-langkah Hosting Aplikasi Web (5%)
+   - **Kriteria:**
+      - Pastikan semua file aplikasi siap, termasuk database dump.
+      - Pilih penyedia hosting sesuai kebutuhan aplikasi (shared, VPS, atau cloud hosting).
+      - Unggah file aplikasi ke server menggunakan FTP/SFTP.
+      - Impor database ke server hosting dan perbarui file koneksi database.
+      - Hubungkan domain dengan server hosting (update DNS settings).
+      - Uji aplikasi web untuk memastikan semua fungsi berjalan normal.
+     
+2. Penyedia Hosting yang Dipilih (5%)
+   - **Pilihan:**
+      - Hosting Niagahoster, Hostinger, Jagoanhosting, AWS (untuk aplikasi kecil hingga skala besar).
+   - **Alasan:**
+      - Dokumentasi lengkap, keamanan tinggi, dan fleksibilitas untuk aplikasi berbasis PHP/SQL.
+     
+3. Keamanan Aplikasi Web (5%)
+   - **Langkah-Langkah:**
+      - Gunakan HTTPS dengan sertifikat SSL.
+      - Validasi input user untuk mencegah SQL Injection atau XSS.
+      - Batasi akses database dengan credential khusus.
+      - Lakukan pembaruan rutin pada library/framework.
+      - Aktifkan firewall atau WAF (Web Application Firewall) pada server.
+
+4. Konfigurasi Server (5%)
+   - **Teknologi:**
+      - Apache atau Nginx sebagai web server.
+      - Konfigurasi PHP versi terbaru dan modul yang dibutuhkan.
+      - Optimalkan database (MySQL/MariaDB) untuk performa.
+----
 
 # Kesimpulan Akhir
 Kode yang dibuat telah memenuhi seluruh kriteria penilaian
